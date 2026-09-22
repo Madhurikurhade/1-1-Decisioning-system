@@ -1,0 +1,6 @@
+{
+  "name": "Use Case Orchestration",
+  "description": "Content Studio Use Case Orchestration flow with 5-step lifecycle: Objective, Budget & Schedule, Audience, Channels & Content, and Review & Confirm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
